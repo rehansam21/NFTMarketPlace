@@ -1,6 +1,6 @@
 # NFTMarketPlace
 A NFT Market Place to buy NFT from ERC20 Standard Token.
-I have tested it in remix if you can allow me I can show yo demo.
+I have tested it in remix with the following steps
 Steps ....
 1. Deployed ERC20 Contract & Minted ERC20 Token 
 2. Transfer some of the Minted ERC20 tokens to Buyer(another account on the remix)
